@@ -60,9 +60,20 @@ All colors use CSS variables at the top of `style.css`:
 - Fully responsive and mobile-friendly design
 - Clean and modern layout
 - Easy to update and maintain
+## Project Preview
+![Resume Website](screenshots/Screenshot 1.png)
+![Resume Website](screenshots/Screenshot 2.png)
+![Resume Website](screenshots/Screenshot 3.png)
+![Resume Website](screenshots/Screenshot 4.png)
+![Resume Website](screenshots/Screenshot 5.png)
+
+## Live Demo
+https://navaneeth22295.github.io/Portfolio-website
 
 ## Getting Started
 1. Clone the repository:
    ```bash
    git clone https://github.com/Navaneeth22295/Portfolio-website.git
    cd Portfolio-website
+## Author
+Navaneeth Andezhath Sivaprasad
