@@ -26,15 +26,15 @@ The website presents professional experience, projects, skills, and contact info
 
 ## Project Preview
 
-![Portfolio Screenshot](screenshots/screenshot1.png)
+![Portfolio Screenshot](screenshots/Screenshot1.PNG)
 
-![Portfolio Screenshot](screenshots/screenshot2.png)
+![Portfolio Screenshot](screenshots/Screenshot2.PNG)
 
-![Portfolio Screenshot](screenshots/screenshot3.png)
+![Portfolio Screenshot](screenshots/Screenshot3.PNG)
 
-![Portfolio Screenshot](screenshots/screenshot4.png)
+![Portfolio Screenshot](screenshots/Screenshot4.PNG)
 
-![Portfolio Screenshot](screenshots/screenshot5.png)
+![Portfolio Screenshot](screenshots/Screenshot5.PNG)
 
 ## Project Structure
 
