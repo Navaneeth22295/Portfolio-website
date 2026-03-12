@@ -61,11 +61,11 @@ All colors use CSS variables at the top of `style.css`:
 - Clean and modern layout
 - Easy to update and maintain
 ## Project Preview
-![Portfolio-website](screenshots/Screenshot 1.png)
-![Portfolio-website](screenshots/Screenshot 2.png)
-![Portfolio-website](screenshots/Screenshot 3.png)
-![Portfolio-website](screenshots/Screenshot 4.png)
-![Portfolio-website](screenshots/Screenshot 5.png)
+![Screenshot](screenshots/Screenshot 1.PNG)
+![Screenshot](screenshots/Screenshot 2.PNG)
+![Screenshot](screenshots/Screenshot 3.PNG)
+![Screenshot](screenshots/Screenshot 4.PNG)
+![Screenshot](screenshots/Screenshot 5.PNG)
 
 ## Live Demo
 https://navaneeth22295.github.io/Portfolio-website
